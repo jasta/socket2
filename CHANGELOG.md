@@ -47,8 +47,6 @@ This release was broken for Windows.
 
 * Fix OpenBSD build
   (https://github.com/rust-lang/socket2/pull/291).
-* Fix OpenBSD build
-  (https://github.com/rust-lang/socket2/pull/291).
 
 # 0.4.4
 
